@@ -1,0 +1,49 @@
+{
+  "settings": [
+    {
+      "id": "shop",
+      "name": "Geo Bakers & Sweets",
+      "address": "MIAN WALI ROAD, CHANDI CHOWK KOTSAMABA",
+      "phone": "0333798798",
+      "footer": "آپ کی تشریف آوری کا شکریہ"
+    }
+  ],
+  "users": [
+    {
+      "id": "u1",
+      "name": "Admin",
+      "username": "admin",
+      "role": "Owner / Admin",
+      "active": true,
+      "passwordHash": "4305ee6810fd2127292a0f6238103c26:d0a015dba698b1e612974af297abb1ccd0c1786e3719e151fa3b15fa3fe000234c33034ba75684232d8e5e6abb94d10db46ad4476ad0bb3c73d2c9234c501db3"
+    },
+    {
+      "id": "u2",
+      "name": "Hassnain",
+      "username": "hassnain",
+      "role": "Owner / Admin",
+      "active": true,
+      "passwordHash": "a6109079ac76c998052110701704eadc:65c40ed7861cc59ad19210caf0d5e3057445f0fbb1784873f468d74a47cbe3a6f848b2f8b332e02c47b759eb0767b4314ab63b3fda8596364bed32c1e28d7ed9"
+    },
+    {
+      "id": "u3",
+      "name": "User",
+      "username": "user",
+      "role": "Cashier / Counter",
+      "active": true,
+      "passwordHash": "7c01eb540ebef0c8520f044b07f6c078:9b7abeaabd07247a8f2fc3d4e4e5d0c2ccab54ec5ae0b6dd05246acb44cd83ad669f783f19a4ed32bcfc81f5e2106b3af37e5ccc74ec94e995ebff29f2932f4b"
+    },
+    {
+      "id": "u4",
+      "name": "Zain",
+      "username": "zain",
+      "role": "Owner / Admin",
+      "active": true,
+      "passwordHash": "e03548023fc18317e9d8b75b6a5e1004:9894e37c987a7f10d0d3f534ac88e924cb04ee8a297b83c4572b395a39c0fe3b833f941cea1ffa06957e74c3608737ddfe53c5708d36c1c4141513c36aab66fa"
+    }
+  ],
+  "products": [],
+  "sales": [],
+  "audit": [],
+  "pending": []
+}
